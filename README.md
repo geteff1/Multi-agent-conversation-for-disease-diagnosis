@@ -17,25 +17,20 @@ Multi Agent Conversation Flow
 **Data curation of 150 rare disease cases**
 
 Each case was curated as primary consultation and follow-up consultation to test the effectiveness of LLMs in actual clincial scenarios.
-https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/blob/e05adbc22c4ae6f4bd9913c57d8e5619e00dcefb/Figure%202.png
-**Python Script**
+![Figure 2](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/assets/148701415/8762cb39-adaf-42a9-b123-9aef73e578bc)
 
-The repository contains Python scripts required to set up and run the framework. The basic requirements include Python and access to large language models through an API. For detailed instructions, see the script documentation.
+**An example of complete conversation**
+![Figure 4](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/assets/148701415/e1569e54-ef5a-4a3f-bca1-aeab98cf6f31)
+
 
 **Runtime Estimate**
 
 The estimated time to run a single case using our framework is approximately 5-10 minutes, varying slightly based on system specifications and network conditions.
 
-**Demo**
 
-Explore our demo section to see case presentations illustrating the application of our framework in real-world scenarios.
+**User guide**
 
-**Reproduction**
-
-In the reproduction section, you can find detailed information on various diseases processed using our framework, offering insights into its practical applications.
-Getting Started
-
-To get started with our framework, please follow the steps outlined in the Python script section. Ensure you meet all the basic requirements before attempting to run the scripts.
+See User Guide for complete code and guide to set up.
 
 **Contributing**
 
