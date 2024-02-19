@@ -15,8 +15,9 @@ Multi Agent Conversation Flow
 ![image](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/assets/148701415/357585db-30b8-487d-83f6-1d8640e9ec38)
 
 **Data curation of 150 rare disease cases**
-Each case was curated as primary consultation and follow-up consultation to test the effectiveness of LLMs in actual clincial scenarios.
 
+Each case was curated as primary consultation and follow-up consultation to test the effectiveness of LLMs in actual clincial scenarios.
+https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/blob/e05adbc22c4ae6f4bd9913c57d8e5619e00dcefb/Figure%202.png
 **Python Script**
 
 The repository contains Python scripts required to set up and run the framework. The basic requirements include Python and access to large language models through an API. For detailed instructions, see the script documentation.
