@@ -11,6 +11,7 @@ Our work has been documented in a preprint article titled "One is Not Enough: Mu
 Multi Agent Conversation Flow
 ![image](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/assets/148701415/357585db-30b8-487d-83f6-1d8640e9ec38)
 
+In 2024-08-26 updates: 1.You may vary the number of doctor agents; 2.You may exclude the supervisor agent; 3.You may assign case specific clinical specialty to doctor agents; 4.You may change the base model of the framework.
 **Test Dataset**
 
 302 disease cases were retrieved. Each case was curated as primary consultation and follow-up consultation to test the effectiveness of LLMs in actual clincial scenarios.
