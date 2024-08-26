@@ -18,8 +18,8 @@
     },
     {
         "model": "gpt-4o",
-        "api_key": "sk-5ceDe1vCXmM5pwzqE204Cc14A14847F19bF1078c3c7550A1",
-        "base_url": "https://api.xiaoai.plus/v1",
+        "api_key": "",
+        "base_url": "",
         "tags": [
             "x_gpt4o"
         ]
