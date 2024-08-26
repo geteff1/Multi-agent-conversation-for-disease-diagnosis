@@ -73,7 +73,7 @@ bash scripts/eval.sh
 ```
 
 ## Results
-Results will be saved in a folder named `outputs/`. To get the final average accuracy, retrieve the final number in the file `outputs/**/results-acc/global.yaml`
+Results will be saved in a folder named `outputs/`. 
 
 ## Contributing
 
