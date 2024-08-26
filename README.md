@@ -29,9 +29,10 @@ The estimated time to run a single case using our framework is approximately 5-1
 
 ## Setup
  * Install anaconda: https://www.anaconda.com/distribution/
- * set up conda environment w/ python 3.8, ex: `conda create --name mac python=3.8`
- * `conda activate mac`
- * `pip install pyautogen==0.2.32`
+ * set up conda environment w/ python 3.8, ex:
+    * `conda create --name mac python=3.8`
+    * `conda activate mac`
+    * `pip install pyautogen==0.2.32`
 
 
 ## Training
